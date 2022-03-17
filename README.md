@@ -1,6 +1,6 @@
 # Detection and categorization of malicious URLs.
 
-[Website](https://quickheaven.github.io/SCS-3253-Machine-Learning/)
+[Website](https://quickheaven.github.io/scs-3253-machine-learning/)
 
 [Jupyter Notebook](https://github.com/quickheaven/SCS-3253-Machine-Learning/blob/main/main.ipynb)
 
