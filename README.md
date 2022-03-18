@@ -1,13 +1,8 @@
 # Detection and categorization of malicious URLs.
-
-[Website](https://quickheaven.github.io/scs-3253-machine-learning/)
-
+SCS 3253 Machine Learning Project | [Website](https://quickheaven.github.io/scs-3253-machine-learning/) | 
 [Jupyter Notebook](https://github.com/quickheaven/SCS-3253-Machine-Learning/blob/main/main.ipynb)
 
-  Submitted by :   
-* Arjie Cristobal
-* 
-* 
+Submitted by Arjie Cristobal
 
 ## Introduction
 
@@ -87,8 +82,6 @@ Machine learning models:
 * Random Forest
 * Ada Boost
 * SGD
-
-### 4.3 Neural network
 
 ## Results
 
