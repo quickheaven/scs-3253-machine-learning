@@ -87,7 +87,4 @@ Machine learning models:
 
 ## Results
 
-*   
-*   
-* 
 
