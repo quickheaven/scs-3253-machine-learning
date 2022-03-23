@@ -5,7 +5,9 @@ Jupyter Notes:
 * [Part I - Import the data and prepare it for modelling](https://github.com/quickheaven/scs-3253-machine-learning/blob/main/Part_I_Import_the_data_and_prepare_it_for_modeling.ipynb)
 * [Part II - Train and evaluate the models](https://github.com/quickheaven/scs-3253-machine-learning/blob/main/Part_II_Train_and_evaluate_the_model.ipynb)
 
-Submitted by Arjie Cristobal
+Submitted by:
+* Arjie Cristobal
+* Omair Amjad
 
 ## Introduction
 
