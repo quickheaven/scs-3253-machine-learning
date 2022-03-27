@@ -1,7 +1,8 @@
 # Detection and categorization of malicious URLs.
 SCS 3253 Machine Learning Project | [Website](https://quickheaven.github.io/scs-3253-machine-learning/)
 
-Jupyter Notes:* [Part I - Import the data and prepare it for modelling](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/main/Part_I_Import_the_data_and_prepare_it_for_modeling.ipynb)
+Jupyter Notes:
+* [Part I - Import the data and prepare it for modelling](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/main/Part_I_Import_the_data_and_prepare_it_for_modeling.ipynb)
 * [Part II - Train and evaluate the models](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/main/Part_II_Train_and_evaluate_the_model.ipynb)
 
 Submitted by:
@@ -35,57 +36,5 @@ The full research paper outlining the details of the dataset and its underlying 
 * Mohammad Saiful Islam Mamun, Mohammad Ahmad Rathore, Arash Habibi Lashkari, Natalia Stakhanova and Ali A. Ghorbani, "Detecting Malicious URLs Using Lexical Analysis", Network and System Security, Springer International Publishing, P467--482, 2016.
 
 Link: [URL dataset (ISCX-URL2016)](https://www.unb.ca/cic/datasets/url-2016.html)
-
-## 1. Required Python libraries
-
-```python
-
-# To plot pretty figures
-
-
-# Machine learn packages
-
-
-# Remove all warnings in this notebook
-warnings.filterwarnings('ignore')
-
-# Same random seed state
-np.random.seed(42)
-random_state=42
-```
-
-## 2. Load URL dataset
-
-### 2.1 
-
-### 2.2 
-
-
-## 3. Examine dimensions in a graphic
-
-
-### 3.1 Split features and targets
-
-
-### 3.2 
-
-
-## Choosing my model
-
-### 4.1 Feature Engine
-
-
-### Machine learning models
-
-Machine learning models:
-
-* k-Nearest Neighbor
-* Gradient Boosting
-* Random Forest
-* Decision Tree
-* Logistic Regression
-* ADA Boost
-
-## Results
 
 
