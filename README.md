@@ -4,6 +4,7 @@ SCS 3253 Machine Learning Project | [Website](https://quickheaven.github.io/scs-
 The main Jupyter Notebooks:
 * [Part &nbsp;I - Import the data and prepare it for modelling](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/4b5613acbfc3c7280b08a6d83be8478a9bb82ae0/Part_I_Import_the_data_and_prepare_it_for_modeling.ipynb)
 * [Part II - Train and evaluate the models](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/4b5613acbfc3c7280b08a6d83be8478a9bb82ae0/Part_II_Train_and_evaluate_the_model.ipynb)
+* Part II - Neural Network
 
 Supporting Notebooks:
 * [Loader](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/6ad67b72c06811b5f3bfdb5fa07dc7091f5c64b3/loader_nb.ipynb)
