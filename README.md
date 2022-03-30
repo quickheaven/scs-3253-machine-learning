@@ -10,9 +10,14 @@ Supporting Notebooks:
 * [Loader](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/6ad67b72c06811b5f3bfdb5fa07dc7091f5c64b3/loader_nb.ipynb)
 * [Model Selection Helper](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/6ad67b72c06811b5f3bfdb5fa07dc7091f5c64b3/model_selection_helper_nb.ipynb)
 
-Submitted by:
-* Arjie Cristobal
-* Omair Amjad
+Team members:
+
+
+| Name | Github Repo |
+| --- | --- |
+| Arjie Cristobal  | https://github.com/quickheaven |
+| Omair Amjad | https://github.com/omairamjad |
+
 
 ## Introduction
 
