@@ -52,11 +52,12 @@
             <a href="#home" class="w3-bar-item w3-button w3-wide"><i class="fas fa-paper-plane"></i> HOME</a>
             <!-- Right-sided navbar links -->
             <div class="w3-right w3-hide-small">
-                <a href="#about" class="w3-bar-item w3-button"><i class="fas fa-database"></i> ABOUT</a>
+                <a href="#about" class="w3-bar-item w3-button"><i class="fas fa-database"></i> &nbsp;ABOUT</a>
                 <a href="#challenge" class="w3-bar-item w3-button"><i class="far fa-file-code"></i> CHALLENGE</a>
                 <a href="#model" class="w3-bar-item w3-button"> <i class="fas fa-cog"></i> MODEL</a>
                 <a href="#result" class="w3-bar-item w3-button"><i class="fa fa-chart-bar"></i> RESULT</a>
-                <a href="https://github.com/quickheaven/SCS-3253-Machine-Learning"
+				<a href="#presentation" class="w3-bar-item w3-button"><i class="fa fa-chalkboard"></i> PRESENTATION</a>
+                <a href="https://github.com/quickheaven/scs-3253-machine-learning"
                     class="w3-bar-item w3-button"><i class="fab fa-github"></i> CODE</a>
             </div>
             <!-- Hide right-floated links on small screens and replace them with a menu icon -->
@@ -77,8 +78,8 @@
         <a href="#challenge" onclick="w3_close()" class="w3-bar-item w3-button">CHALLENGE</a>
         <a href="#model" onclick="w3_close()" class="w3-bar-item w3-button">MODEL</a>
         <a href="#result" onclick="w3_close()" class="w3-bar-item w3-button">RESULT</a>
-        <a href="https://github.com/quickheaven/SCS-3253-Machine-Learning" onclick="w3_close()"
-            class="w3-bar-item w3-button">CODE</a>
+		<a href="#presentation" onclick="w3_close()" class="w3-bar-item w3-button">PRESENTATION</a>
+        <a href="https://github.com/quickheaven/scs-3253-machine-learning" onclick="w3_close()" class="w3-bar-item w3-button">CODE</a>
     </nav>
 
     <!-- Header with full-height image -->
@@ -136,9 +137,8 @@
             <div class="w3-twothird">
                 <h1>Challenge</h1>
                 <p class="w3-text-grey">Lack of description on individual features.</p>
-		<p class="w3-text-grey">Difficult to determine the correlations because of large number of features.</p>
+				<p class="w3-text-grey">Difficult to determine the correlations because of large number of features.</p>
                 <p class="w3-text-grey">The dataset contains Null, NaN and Infinity values.</p>
-
             </div>
         </div>
     </div>
@@ -216,14 +216,27 @@
                         <td>0.6104</td>
                     </tr>					
                 </table>
-
-
-
             </div>
         </div>
     </div>
 
-
+    <!-- Fifth Grid -->
+    <div class="w3-row-padding w3-padding-64 w3-container" id="presentation">
+        <div class="w3-content">
+			<div class="w3-center">
+				<h1>Presentation</h1>
+				<iframe src="https://docs.google.com/gview?embedded=true&url=https://github.com/quickheaven/scs-3253-machine-learning/raw/main/documentation/Detection%20and%20categorization%20of%20malicious%20URLs.pdf" style="width:700px; height:500px;" frameborder="1">
+				</iframe>
+			</div>
+			<!--
+			<div class="w3-third w3-center w3-hide-small">
+                <i class="fas fa-cogs icon-big w3-padding-64 w3-text-gray w3-margin-right w3-hide-medium"></i>
+                <i class="fas fa-cogs fa-10x w3-padding-64 w3-text-gray w3-margin-right w3-hide-large"></i>
+            </div>
+			-->
+        </div>
+    </div>
+	
     <!-- Footer -->
     <footer class="w3-center w3-black w3-padding-64">
         <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
