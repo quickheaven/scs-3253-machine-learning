@@ -7,8 +7,8 @@ The Main Jupyter Notebooks:
 * Part III - Neural Network
 
 The Supporting Notebooks:
-* [Loader](quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/loader_nb.ipynb)
-* [Model Selection Helper](quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/model_selection_helper_nb.ipynb)
+* [Loader](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/loader_nb.ipynb)
+* [Model Selection Helper](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/model_selection_helper_nb.ipynb)
 
 Team members:
 
