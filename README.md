@@ -2,13 +2,13 @@
 SCS 3253 Machine Learning Project | [Website](https://quickheaven.github.io/scs-3253-machine-learning/)
 
 The Main Jupyter Notebooks:
-* [Part I&nbsp;&nbsp; - Import the data and prepare it for modelling](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/4b5613acbfc3c7280b08a6d83be8478a9bb82ae0/Part_I_Import_the_data_and_prepare_it_for_modeling.ipynb)
-* [Part II&nbsp; - Train and evaluate the models](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/4b5613acbfc3c7280b08a6d83be8478a9bb82ae0/Part_II_Train_and_evaluate_the_model.ipynb)
+* [Part I&nbsp;&nbsp; - Import the data and prepare it for modelling](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/Part_I_Import_the_data_and_prepare_it_for_modeling.ipynb)
+* [Part II&nbsp; - Train and evaluate the models](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/Part_II_Train_and_evaluate_the_model.ipynb)
 * Part III - Neural Network
 
 The Supporting Notebooks:
-* [Loader](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/6ad67b72c06811b5f3bfdb5fa07dc7091f5c64b3/loader_nb.ipynb)
-* [Model Selection Helper](https://nbviewer.org/github/quickheaven/scs-3253-machine-learning/blob/6ad67b72c06811b5f3bfdb5fa07dc7091f5c64b3/model_selection_helper_nb.ipynb)
+* [Loader](quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/loader_nb.ipynb)
+* [Model Selection Helper](quickheaven/scs-3253-machine-learning/blob/977a523a096097b350ec78cfcfc7357142e0fe1e/model_selection_helper_nb.ipynb)
 
 Team members:
 
